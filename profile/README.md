@@ -1,4 +1,4 @@
-# Pocket SOL
+# 💰👦🏻 Pocket SOL
 부모와 아이가 함께하는 용돈 관리 플랫폼
 ![Sales Pitch Sales Presentation in Dark Blue and Cream 3D Mockups Style (8)](https://github.com/user-attachments/assets/ced21400-1151-4b79-9dd3-8b3f9c9bf31d)
 
