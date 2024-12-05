@@ -57,7 +57,7 @@
 | 기능 |
 |:----:|
 | **부모를 위한 경제 이야기** |
-| ![Sales Pitch Sales Presentation in Dark Blue and Cream 3D Mockups Style (4)](https://github.com/user-attachments/assets/4c226840-0dcc-4c9d-af15-9810056fe0f7) |
+| ![Sales Pitch Sales Presentation in Dark Blue and Cream 3D Mockups Style (10)](https://github.com/user-attachments/assets/50709932-34bc-4ca3-a5dd-d3a55ff34227) |
 | 부모를 대상으로 한 유익한 경제 정보를 제공합니다. |
 
 ### **자녀 사용자를 위한 기능**
