@@ -43,10 +43,16 @@
 | ![Sales Pitch Sales Presentation in Dark Blue and Cream 3D Mockups Style (2)](https://github.com/user-attachments/assets/039102fd-fde3-4946-a29c-c063b9661c8b) |
 | 자녀가 통장 분리 개념을 간접적으로 경험할 수 있도록, 부모가 용돈을 보낼 때 고정비와 자유 사용비를 분리하여 송금할 수 있습니다. |
 
-- **예약 송금 및 잔액 이전**  
-  고정비는 예약 송금을 설정하면 지정한 시간에 자동으로 송금됩니다.  
-  또한, 매월 1일에는 자유 사용비에서 남은 금액이 위시 박스로 이동하여 자녀가 더욱 똑똑한 소비 습관을 기를 수 있도록 도와줍니다.
-  
+
+| 기능 |
+|:----:|
+| **예약 송금 및 잔액 이전** |
+| <video src="https://user-images.githubusercontent.com/your-user-id/your-repo/assets/ad4cdbd5-a987-4a14-af83-2f88918b5f4c" controls="controls" muted="muted" playsinline="playsinline">
+</video> |
+| 고정비는 예약 송금을 설정하면 지정한 시간에 자동으로 송금됩니다. 또한, 매월 1일에는 자유 사용비에서 남은 금액이 위시 박스로 이동하여 자녀가 더욱 똑똑한 소비 습관을 기를 수 있도록 도와줍니다. |
+
+
+
 | 기능 |
 |:----:|
 | **부모를 위한 경제 이야기** |
