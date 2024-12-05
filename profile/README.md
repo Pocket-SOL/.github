@@ -61,19 +61,28 @@
 
 ### **자녀 사용자를 위한 기능**
 
-- **용돈 사용 내역 기록**  
-  자신의 소비를 사진으로 기록하고 관리할 수 있습니다.
+| 기능 |
+|:----:|
+| **용돈 사용 내역 기록** |
+| ![Sales Pitch Sales Presentation in Dark Blue and Cream 3D Mockups Style (6)](https://github.com/user-attachments/assets/301292c2-4f19-4b6b-98ed-bdf4fb4f60d5) |
+| 자신의 소비를 사진으로 기록하고 관리할 수 있습니다. |
 
-- **용돈 요청하기**  
-  등록된 부모님에게 간편하게 용돈을 요청할 수 있습니다.
+| 기능 |
+|:----:|
+| **용돈 요청하기** |
+| ![Sales Pitch Sales Presentation in Dark Blue and Cream 3D Mockups Style (5)](https://github.com/user-attachments/assets/d440cc7b-7cc8-4c6f-a80a-0470471d15fb) |
+| 등록된 부모님에게 간편하게 용돈을 요청할 수 있습니다. |
 
-- **주식 퀴즈**  
-  주식 관련 퀴즈를 풀며 즐겁게 경제와 금융 지식을 배울 수 있습니다.
+| 기능 |
+|:----:|
+| **주식 퀴즈** |
+| 주식 관련 퀴즈를 풀며 즐겁게 경제와 금융 지식을 배울 수 있습니다. |
 
-- **우리 학교 공동구매**  
-  학교 인증을 통해 친구들과 함께 물건을 공동구매할 수 있습니다.
-
-
+| 기능 |
+|:----:|
+| **우리 학교 공동구매** |
+| ![Sales Pitch Sales Presentation in Dark Blue and Cream 3D Mockups Style (7)](https://github.com/user-attachments/assets/aac9d2e1-f6e1-4898-944d-dea8112257e6) |
+| 학교 인증을 통해 친구들과 함께 물건을 공동구매할 수 있습니다. |
 ## 🛠 기술 스택 및 서비스 아키텍처
 ![아키텍처](https://github.com/user-attachments/assets/1641dc9d-0f05-4de0-a392-78d4c7ed3f49)
 
