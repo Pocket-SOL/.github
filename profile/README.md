@@ -36,17 +36,23 @@
 | ![Sales Pitch Sales Presentation in Dark Blue and Cream 3D Mockups Style (1)](https://github.com/user-attachments/assets/17efd241-0b5a-4d05-888d-48f1a6a05075) |
 | 부모가 자녀를 검색하여 등록 요청을 보내면, 자녀가 이를 승인함으로써 부모로 등록됩니다. 등록된 부모는 자녀의 잔액과 사용 내역을 조회할 수 있습니다. |
 
-- **통장 분리를 통한 용돈 송금**  
-  자녀가 통장 분리 개념을 간접적으로 경험할 수 있도록, 부모가 용돈을 보낼 때 고정비와 자유 사용비를 분리하여 송금할 수 있습니다.
-![Sales Pitch Sales Presentation in Dark Blue and Cream 3D Mockups Style (2)](https://github.com/user-attachments/assets/039102fd-fde3-4946-a29c-c063b9661c8b)
+
+| 기능 |
+|:----:|
+| **통장 분리를 통한 용돈 송금** |
+| ![Sales Pitch Sales Presentation in Dark Blue and Cream 3D Mockups Style (2)](https://github.com/user-attachments/assets/039102fd-fde3-4946-a29c-c063b9661c8b) |
+| 자녀가 통장 분리 개념을 간접적으로 경험할 수 있도록, 부모가 용돈을 보낼 때 고정비와 자유 사용비를 분리하여 송금할 수 있습니다. |
+
 - **예약 송금 및 잔액 이전**  
   고정비는 예약 송금을 설정하면 지정한 시간에 자동으로 송금됩니다.  
   또한, 매월 1일에는 자유 사용비에서 남은 금액이 위시 박스로 이동하여 자녀가 더욱 똑똑한 소비 습관을 기를 수 있도록 도와줍니다.
+  
+| 기능 |
+|:----:|
+| **부모를 위한 경제 이야기** |
+| ![Sales Pitch Sales Presentation in Dark Blue and Cream 3D Mockups Style (4)](https://github.com/user-attachments/assets/4c226840-0dcc-4c9d-af15-9810056fe0f7) |
+| 부모를 대상으로 한 유익한 경제 정보를 제공합니다. |
 
-- **부모를 위한 경제 이야기**  
-  부모를 대상으로 한 유익한 경제 정보를 제공합니다.
-
-![Sales Pitch Sales Presentation in Dark Blue and Cream 3D Mockups Style (4)](https://github.com/user-attachments/assets/4c226840-0dcc-4c9d-af15-9810056fe0f7)
 ### **자녀 사용자를 위한 기능**
 
 - **용돈 사용 내역 기록**  
