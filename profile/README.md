@@ -1,5 +1,6 @@
 # Pocket SOL
 부모와 아이가 함께하는 용돈 관리 플랫폼
+![Sales Pitch Sales Presentation in Dark Blue and Cream 3D Mockups Style (8)](https://github.com/user-attachments/assets/ced21400-1151-4b79-9dd3-8b3f9c9bf31d)
 
 ## 프로젝트 개요
 이 프로젝트는 부모님들의 자녀 금융 교육에 대한 관심이 높아짐에 따라, 자녀가 어릴 때부터 용돈 관리를 스스로 해보며 자연스럽게 경제 개념을 익히고, 똑똑한 소비 습관을 형성하도록 돕는 것을 목표로 기획되었습니다. 특히, **Pocket SOL** 서비스를 통해 사회 초년생에게 권장되는 통장 분리 개념을 자연스럽게 배우고 익힐 수 있도록 설계하였습니다.
